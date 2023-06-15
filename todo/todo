@@ -1,0 +1,6 @@
+- rectification des titres
+- modifier le bouton "modifier" par "mettre a jour mes paramètre"
+- le bouton mettre ajour mes paramètre vous redérige vers "/"
+- protection de tous les route avec middelware("auth")
+- la table historiqueavis ajouter emplacement_id
+- modifier l'api de facon a récupérer l'emplacement a partir de l'objet d' l'appreil qui a envoyer la requete

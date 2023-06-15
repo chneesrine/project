@@ -1,0 +1,13 @@
+
+
+
+
+
+POST http://127.0.0.1:8000/api/Avis/add HTTP/1.1
+Content-Type: application/json
+
+{
+"Avis":"1",
+"appariel_id":1,
+"create-at": "2023-05-09"  
+}
